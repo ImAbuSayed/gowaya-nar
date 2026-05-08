@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Gowaya Nar
+
+This log tracks the cryptographic history and versioning for the song **Gowaya Nar** (gowaya-nar).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-08T22:34:26.405293 | `v1` | `4c4f83695c475f274fcc81bb51c3e315fe2a4d10c82ba55e86e777f9256cd36b` | `a428a1451eb13e3139bdba0b44d7e5613fe6e8c148bfc73d829371c2e2dea0ae` | `2026-05-08_gowaya-nar-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
